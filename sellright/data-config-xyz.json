@@ -3,5 +3,11 @@
         "Code": "172001",
         "Used": "FALSE",
         "Active": "TRUE"
+   }
+    
+    {
+        "Code": "hfu",
+        "Used": "FALSE",
+        "Active": "TRUE"
     }
 ]
